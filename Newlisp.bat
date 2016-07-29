@@ -1,4 +1,4 @@
 ;@echo off & newlisp %0 %* & pause & exit /b
 
-(println 'hi')
+(println "Hello World")
 (exit)
